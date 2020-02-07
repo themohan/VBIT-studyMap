@@ -1,5 +1,6 @@
 var subjectdb = [
 
+    
     ['M1','EP','EC','BEEE','EM'],
     ['M2','M3','EG','CP','EP-2'],
     ['M4','DSC++','MFCS','DLD','OOPS'],
